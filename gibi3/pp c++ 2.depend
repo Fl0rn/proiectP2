@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1655925773 source:d:\probleme\pp c++ 2\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<fstream>
+	<vector>
+	<Oferte.h>
+	<Programari.h>
+	<windows.h>
+
+1655911577 d:\probleme\pp c++ 2\include\oferte.h
+	<iostream>
+	<cstring>
+	<string>
+	<fstream>
+	<vector>
+
+1655911577 source:d:\probleme\pp c++ 2\src\oferte.cpp
+	"Oferte.h"
+	<iostream>
+	<cstring>
+	<string>
+	<fstream>
+	<vector>
+
+1655913468 d:\probleme\pp c++ 2\include\programari.h
+	<iostream>
+	<cstring>
+	<string>
+	<fstream>
+	<vector>
+	<Oferte.h>
+
+1655913468 source:d:\probleme\pp c++ 2\src\programari.cpp
+	"Programari.h"
+	<iostream>
+	<cstring>
+	<string>
+	<fstream>
+	<vector>
+	<Oferte.h>
+
